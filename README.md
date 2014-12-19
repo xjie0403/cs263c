@@ -1,4 +1,3 @@
-cs263c
-======
+The code for Phase 1 only is animat.py. Results are in the phase1 directory.
 
-14F-COM SCI 263C
+The code including Phase 2 (incomplete) is animat2.py
